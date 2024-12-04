@@ -1,0 +1,12 @@
+Explain the key features of Python that make it a popular choice for programming
+
+Answer: Here are the key features of python:
+        1.python is widely used in data industry.
+        2.python can handle mutiple types of programming such as functional,procedural and 
+          object oriented programming.
+        3.python has large,active community of developers.
+        4.It has large numbers of libraries.
+        5.It is an interpreted language means that it executes code line by line.
+        6.python can integrate with other programming languages such as java,c++ and c.
+        7.It is a versatile language means that it is used in wide range of domains including
+          machine learning,data science,web development and more.
