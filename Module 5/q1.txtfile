@@ -1,0 +1,15 @@
+"""
+question: What are data structures, and why are they important?
+Answer:
+        Data structure is the way of organising and storing data so that it can be acessed
+        and manipulated efficiently.
+
+        It is important for many resons:
+
+        1. It helps in choosing the right data structure.
+        2. It significally impacts the efficiency and performance in program.
+        3. It simplify data manipulation such as(adding , removing and modifying elements)
+        4. It hepls to conserve memory usage
+        5. It hepls program to acess faster.
+        6. It helps in optimize searching.
+        7. It helps in sorting operations.

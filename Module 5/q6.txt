@@ -1,0 +1,16 @@
+question: What is a string in Python, and how is it different from a list?
+Answer:
+        String is a seqence of character and it is used to represent text based data.
+        It is written in single quotes or double quotes.
+        
+        strings is a sequence of character but list is collection of objects. It can 
+        store any data type.
+        strings are immutable whereas lists are mutable.
+        In strings we can perform limited operations such as conceation, slicing and formating.
+        but in  lists we can perform various operation such as apeend, remove or change elements
+
+        Strings have methods specific to string manipulation, such as .lower(), .upper(), .replace(), .split(), .join(), etc.
+        Lists have methods like append, remove, pop, sort, reverse, and more
+        String acess character by index whereas list acess elements by index.
+        Strings is basically used for storing and manipulating text data
+        whereas lists are more versatile than strings and stores all type of data.

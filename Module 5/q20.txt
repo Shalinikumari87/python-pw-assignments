@@ -1,0 +1,13 @@
+question: Explain the difference between a list and a dictionary in terms of data retrieval.
+Answer:  Lists are ordered collection of elements and by the elemets indexes we can get data
+         means elements.
+         Dictionaries are unordered collection of key value and by its key we can get data
+         not by the indexes.
+         In list we can get data by elements positions in the list using starting index that it
+         0.
+         In dictionaries we get data by acessing the key that is present in dictionary.
+         In list accessing elements don't take too much time because by the index we can get 
+         elements in limited time.
+         But in dictionary all the time we have to give a key to return the value that is present 
+         in dictionary it takes more time than lists.
+

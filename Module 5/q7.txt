@@ -1,0 +1,17 @@
+question: How do tuples ensure data integrity in Python?
+Answer: Tuples are immutable data type that means it cannot be changed after its creation.
+        Tuples helps to ensure data integrity in many ways are as:
+
+        1. The main feature of a tuple is that it is immutable
+           Once a tuple is created, its values cannot be changed
+           added to, or removed. This prevents accidental modifications to the data.
+
+        2. This immutability ensures that data within a tuple cannot be modified,
+           which is particularly useful for maintaining integrity in critical data.
+           For example, when passing data to functions or across different parts of
+           a program, we can be confident that the data will not be altered.
+
+        3. Tuples are often used to pass around data between functions or threads because
+           they guarantee that the data won't be inadvertently changed. This is important when
+           we need to ensure that the data remains consistent across different parts of the 
+           program.

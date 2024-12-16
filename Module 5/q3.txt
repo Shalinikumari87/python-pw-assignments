@@ -1,0 +1,18 @@
+"""
+question: What are the main differences between lists and tuples in Python?
+Answer: The main difference betwwen lists and tuples are as follows:
+
+        1. Lists are mutable whwereas tuples are immutable that means in lists we can 
+           modify elements such as adding and removing elements from a lists.
+           But in tuples we cannot modify elements we cannot add or remove elements from
+           a tuple.
+
+        2. Lists is denoted by big brackets[], whereas tuples are denoted by small brackets()
+        3. Lists occupies more space in computer memory whereas tuples occupies less memory
+           space.
+        4.Lists are slower than tuples beacause of their mutablity whwereas tuples are faster
+          than lists due to its immutable characterstic.
+
+        5. In lists we can do many methods for modifying lists. we can add, remove,append elements
+           iside the lists whereas in tuple we cannot use modifucation but only few mthods we can
+           apply to tuple such as count and index.
